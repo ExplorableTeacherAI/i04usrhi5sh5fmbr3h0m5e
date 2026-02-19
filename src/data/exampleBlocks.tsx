@@ -757,7 +757,8 @@ const exampleBlocks: ReactElement[] = [
                     id="lh-process"
                     varName="activeHighlight"
                     highlightId="process"
-                    color="#22c55e"
+                    color="#f97316"
+                bgColor="rgba(249, 115, 22, 0.15)"
                 >
                     process
                 </InlineLinkedHighlight>
